@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>854844015993-1slphhudd136qm5n11k386j4at1sir02.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.854844015993-o51ksm71cc081uoq7v57qqv2budl0v8o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>854844015993-20ibdvers4566klikkqi2liohetecpcc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOwdBrTqH1O1EjoYju18bYVn59pCpGmGc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>854844015993</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dripx.dripxapp</string>
+	<key>PROJECT_ID</key>
+	<string>revolve-ai-leak-detector</string>
+	<key>STORAGE_BUCKET</key>
+	<string>revolve-ai-leak-detector.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:854844015993:ios:5f4ec366a92c871ae35ba8</string>
+	<key>DATABASE_URL</key>
+	<string>https://revolve-ai-leak-detector-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

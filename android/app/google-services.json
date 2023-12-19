@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "854844015993",
+    "firebase_url": "https://revolve-ai-leak-detector-default-rtdb.firebaseio.com",
+    "project_id": "revolve-ai-leak-detector",
+    "storage_bucket": "revolve-ai-leak-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854844015993:android:024ae4c28ffcc6d8e35ba8",
+        "android_client_info": {
+          "package_name": "com.dripx.dripxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854844015993-20ibdvers4566klikkqi2liohetecpcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dripx.dripxapp",
+            "certificate_hash": "b9715701bfc4f0490b9893ba26243ad987a9cc08"
+          }
+        },
+        {
+          "client_id": "854844015993-2gj39mnhse5bj694cpfp0772pj9501rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWeW9e_h9pF8l7khJZ3tmV8OUeuYAcWW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854844015993-2gj39mnhse5bj694cpfp0772pj9501rm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854844015993-o51ksm71cc081uoq7v57qqv2budl0v8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waterx.waterx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854844015993:android:8098e17434837330e35ba8",
+        "android_client_info": {
+          "package_name": "com.waterx.waterx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854844015993-7nt3qah3qkd9hiad0t2ciq7d0qtbhb96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waterx.waterx",
+            "certificate_hash": "b9715701bfc4f0490b9893ba26243ad987a9cc08"
+          }
+        },
+        {
+          "client_id": "854844015993-2gj39mnhse5bj694cpfp0772pj9501rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWeW9e_h9pF8l7khJZ3tmV8OUeuYAcWW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854844015993-2gj39mnhse5bj694cpfp0772pj9501rm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854844015993-o51ksm71cc081uoq7v57qqv2budl0v8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waterx.waterx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
